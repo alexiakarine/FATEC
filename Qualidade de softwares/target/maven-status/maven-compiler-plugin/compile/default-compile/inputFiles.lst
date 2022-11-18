@@ -1,0 +1,12 @@
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/repository/UsuarioRepository.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/service/AutorizacaoService.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/service/SegurancaService.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/entity/Autorizacao.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/entity/Usuario.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/Projetolab5Application.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/controller/MainController.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/repository/AutorizacaoRepository.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/service/SegurancaServiceImpl.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/service/AutorizacaoServiceImpl.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/controller/UsuarioController.java
+/workspace/FATEC_/src/main/java/br/gov/sp/fatec/projetolab5/controller/AutorizacaoController.java
